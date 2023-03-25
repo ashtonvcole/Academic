@@ -1,6 +1,7 @@
 # Tumor Treatment Computational Modeling
 
 COE 311K: Engineering Computation
+
 Fall 2021
 
 This project uses numerical methods to solve a nonlinear system of differential equations which model a tumor subjected to an arbitrary drug treatment. Drug dosages are optimized to minimize an arbitrary multivariable cost function, which could represent toxic or undesirable side effects. Coding was conducted in MATLAB on a team of 5, but the report was written individually.
